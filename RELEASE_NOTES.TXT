@@ -1,0 +1,29 @@
+Release Notes
+
+Sep 18, 2013 - NF1 Board - v0.3
+
+- Fixed all capacitors & resistors to 0805 package (as 0402 is just too much pain and no gain)
+- Added PWR_ENABLE control signal to turn on/off power to BitFury chip
+- fixed BF chip solder paste mask (to 4 smaller squares as 1 big square is a bit too much and solder leaks all over the place)
+- No more (than the bare possible minimum) tracks underneath the board
+- fix bottom solder mask to uncover USB connector
+- fix MCP2210's missing GND connection
+
+Aug 20, 2013 - NF1 v0.2
+
+- replace 1.8V LDO
+
+Aug 3, 2013 - NF1 v0.1
+
+- Rework schematic to use MCP2210
+- add 3rd power regulator for 3.3V (providing power to MCP2210)
+
+Jul 23, 2013 - Project Start - NF1 v0.0.1
+
+Initial design of both board and schematic.
+
+Initially based on FT232RL chip (and manually drive all pins - SCK, MOSI and MISO)
+
+Some of the kicad files originated from BKKCoin's K1 Nano files (which originated from Eagle CAD files through a conversion). Majority of the converted files however had to be reworked as they were unusable, had bad drawings, pins (size/position/etc).
+
+BKKCoin's words: "My recommendation: if you ever find yourself using Eagle and wanting to use Kicad - start over fresh, do not convert."

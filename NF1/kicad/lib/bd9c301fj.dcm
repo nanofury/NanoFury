@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 9/3/2013 1:26:41 AM
+#
+$CMP BD9C301FJ
+D Synchronous buck DC/DC converter
+F http://rohmfs.rohm.com/jp/products/databook/datasheet/ic/power/switching_regulator/bd9c301fj-j.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-14 BZR 4242)-testing date = 8/22/2013 2:50:25 AM
+
+BeginCmp
+TimeStamp = /520B528F;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C979;
+Reference = C2;
+ValeurCmp = 22uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C9A6;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C988;
+Reference = C4;
+ValeurCmp = 22uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C997;
+Reference = C5;
+ValeurCmp = 22uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C9B5;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211CCAB;
+Reference = C7;
+ValeurCmp = 1.1n;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52119372;
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52119381;
+Reference = C9;
+ValeurCmp = 10uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E16E;
+Reference = C11;
+ValeurCmp = 22uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E198;
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E271;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E277;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E27D;
+Reference = C15;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E711;
+Reference = C21;
+ValeurCmp = 22uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E717;
+Reference = C22;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E71D;
+Reference = C23;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E723;
+Reference = C24;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211E729;
+Reference = C25;
+ValeurCmp = 100nF;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /520B57D0;
+Reference = CN1;
+ValeurCmp = MINIUSB;
+IdModule  = USBAPCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /520B535C;
+Reference = L1;
+ValeurCmp = 1uH;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211DB09;
+Reference = L2;
+ValeurCmp = 2.4uH;
+IdModule  = 0630;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211CC9E;
+Reference = R1;
+ValeurCmp = 13k;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211CF90;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211CF96;
+Reference = R3;
+ValeurCmp = 2.4k;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52132552;
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = 0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211C8C8;
+Reference = U1;
+ValeurCmp = BD9C301FJ;
+IdModule  = HTSOP-J8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5211924D;
+Reference = U2;
+ValeurCmp = AAT3221IGV-1.8;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52118D52;
+Reference = U3;
+ValeurCmp = FT232RL;
+IdModule  = SSOP28;
+EndCmp
+
+BeginCmp
+TimeStamp = /52033E03;
+Reference = U4;
+ValeurCmp = BITFURY;
+IdModule  = QFN48;
+EndCmp
+
+EndListe

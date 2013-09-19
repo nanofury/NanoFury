@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3  Date: 8/14/2013 2:46:12 AM
+#encoding utf-8
+#
+# INDUCTOR
+#
+DEF ~INDUCTOR L 0 1 N N 1 F N
+F0 "L" -20 60 60 H V C CNN
+F1 "INDUCTOR" 0 -100 60 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -67 -11 15 11 1 1 0 F
+X 1 1 -100 0 32 R 12 12 1 1 P
+X 2 2 50 0 32 L 12 12 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

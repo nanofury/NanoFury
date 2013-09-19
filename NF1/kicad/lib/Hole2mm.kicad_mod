@@ -1,0 +1,14 @@
+(module Hole2mm locked (layer F.Cu)
+  (at 0 0)
+  (path 1pin)
+  (fp_text reference Hole2mm (at 0 -3.048) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+  (fp_text value P*** (at 0 2.794) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  )
+  (fp_circle (center 0 0) (end 0 -2) (layer F.SilkS) (width 0.3))
+  (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 2)
+    (layers *.Cu *.Mask F.SilkS)
+  )
+)

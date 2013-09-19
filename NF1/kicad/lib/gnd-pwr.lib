@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: 8/18/2013 10:50:25 PM
+#encoding utf-8
+#
+# GND
+#
+DEF GND U 0 0 N N 1 F P
+F0 "U" -50 -200 60 H I C CNN
+F1 "GND" 0 -100 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+P 2 0 1 0  -100 0  100 0 N
+X GND ~ 0 200 200 D 40 40 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

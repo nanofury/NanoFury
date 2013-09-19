@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: 9/2/2013 10:52:49 PM
+#encoding utf-8
+#
+# TST
+#
+DEF TST P 0 40 N N 1 F N
+F0 "P" 0 300 40 H V C CNN
+F1 "TST" 0 250 30 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 6 0 1 0  0 200  -50 150  0 100  50 150  0 200  0 200 N
+X ~ 1 0 0 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
