@@ -13,7 +13,7 @@ WARNING:
 
 SUMMARY:
 
-  This is an open source effort to design and build a Bitcoin mining board based on the BitFury ASIC. Initially the goal is to have a simple USB-to-BitFury interface since BitFury's chips are easily chain-able. The final goal is this design to be used as a base for a board with multiple ASIC chips. The only limitation would be from the speed of the SPI bus which is estimated at this time to be sufficient for up to 64 chips.
+  This is an open source effort to design and build a Bitcoin mining board based on the BitFury ASIC. Initially the goal is to have a simple USB-to-BitFury interface. The final goal is this design to be used as a base for a board with multiple ASIC chips as BitFury's chips are easily chain-able. The only limitation would be from the speed of the SPI bus which is estimated at this time to be sufficient for up to 64 chips.
 
 STATUS:
 
