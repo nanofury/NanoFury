@@ -20,9 +20,9 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "NanoFury NF1 - Version 1"
-Date "15 sep 2013"
-Rev "0.1"
+Title "NanoFury NF1 - Version 3"
+Date "19 sep 2013"
+Rev "0.3"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -228,6 +228,7 @@ F 0 "L2" H 5000 850 60  0000 C CNN
 F 1 "2.4uH" H 5050 650 60  0000 C CNN
 F 2 "0630" H 4900 850 60  0001 C CNN
 F 3 "" H 4950 850 60  0000 C CNN
+F 4 "SRR1280-2R4Y" H 4950 750 60  0001 C CNN "DigiKey P/N"
 	1    4950 750 
 	1    0    0    -1  
 $EndComp
@@ -373,7 +374,7 @@ L MCP2210-SO U5
 U 1 1 52256B1C
 P 5100 3050
 F 0 "U5" H 5100 3100 50  0000 L BNN
-F 1 "MCP2210-SO" H 5450 2950 50  0000 L BNN
+F 1 "MCP2210-I/SS" H 5450 2950 50  0000 L BNN
 F 2 "SSOP-20" H 5450 2900 50  0001 L CNN
 F 3 "22288A.pdf" H 6170 1075 60  0001 C CNN
 	1    5100 3050
