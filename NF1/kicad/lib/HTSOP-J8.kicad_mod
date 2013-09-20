@@ -39,7 +39,7 @@
   (pad 9 smd rect (at 2.45 -1.95) (size 3.6 2.8)
     (layers F.Cu F.Paste F.Mask)
   )
-  (model smd/cms_so8.wrl
+  (model ../lib/cms_so8.wrl
     (at (xyz 0.095 0.075 0))
     (scale (xyz 0.5 0.3 0.3))
     (rotate (xyz 0 0 0))
