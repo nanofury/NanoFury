@@ -1,0 +1,104 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 9/3/2013 10:02:26 PM
+#Cmp ( order = Reference ) (with SubCmp)
+| C1         100nF                           Loc /(X=36.830 mm, Y=20.320 mm); 0402        ;             ;             
+| C2         22uF                            Loc /(X=78.740 mm, Y=21.590 mm); 0805        ;             ;             
+| C3         100nF                           Loc /(X=83.820 mm, Y=21.590 mm); 0402        ;             ;             
+| C4         22uF                            Loc /(X=139.700 mm, Y=22.860 mm); 0805        ;             ;             
+| C5         22uF                            Loc /(X=143.510 mm, Y=22.860 mm); 0805        ;             ;             
+| C6         100nF                           Loc /(X=148.590 mm, Y=22.860 mm); 0402        ;             ;             
+| C7         1.1n                            Loc /(X=104.140 mm, Y=39.370 mm); 0402        ;             ;             
+| C8         10uF                            Loc /(X=59.690 mm, Y=72.390 mm); 0805        ;             ;             
+| C9         10uF                            Loc /(X=111.760 mm, Y=72.390 mm); 0805        ;             ;             
+| C10        100n                            Loc /(X=118.110 mm, Y=72.390 mm); 0402        ;             ;             
+| C11        22uF                            Loc /(X=149.860 mm, Y=156.210 mm); 0805        ;             ;             
+| C12        100nF                           Loc /(X=157.480 mm, Y=156.210 mm); 0402        ;             ;             
+| C13        100nF                           Loc /(X=165.100 mm, Y=156.210 mm); 0402        ;             ;             
+| C14        100nF                           Loc /(X=172.720 mm, Y=156.210 mm); 0402        ;             ;             
+| C15        100nF                           Loc /(X=180.340 mm, Y=156.210 mm); 0402        ;             ;             
+| C21        22uF                            Loc /(X=190.500 mm, Y=156.210 mm); 0805        ;             ;             
+| C22        100nF                           Loc /(X=198.120 mm, Y=156.210 mm); 0402        ;             ;             
+| C23        100nF                           Loc /(X=205.740 mm, Y=156.210 mm); 0402        ;             ;             
+| C24        100nF                           Loc /(X=213.360 mm, Y=156.210 mm); 0402        ;             ;             
+| C25        100nF                           Loc /(X=220.980 mm, Y=156.210 mm); 0402        ;             ;             
+| CF1.8-1    100n                            Loc /(X=189.230 mm, Y=48.260 mm); 0402        ;             ;             
+| CN1        MINIUSB                         Loc /(X=20.320 mm, Y=22.860 mm); USBAPCB     ;             ;             
+| L1         1uH                             Loc /(X=27.940 mm, Y=16.510 mm); 0402        ;             ;             
+| L2         2.4uH                           Loc /(X=125.730 mm, Y=19.050 mm); 0630        ;             ;             
+| P1         TST         ~                   Loc /(X=186.690 mm, Y=77.470 mm); TP          ; ~           ;             
+| P2         TST         ~                   Loc /(X=190.500 mm, Y=77.470 mm); TP          ; ~           ;             
+| P3         TST         ~                   Loc /(X=194.310 mm, Y=77.470 mm); TP          ; ~           ;             
+| P4         TST         ~                   Loc /(X=203.200 mm, Y=77.470 mm); TP          ; ~           ;             
+| P5         TST         ~                   Loc /(X=207.010 mm, Y=77.470 mm); TP          ; ~           ;             
+| P6         TST         ~                   Loc /(X=210.820 mm, Y=77.470 mm); TP          ; ~           ;             
+| P7         TST         ~                   Loc /(X=199.390 mm, Y=62.230 mm); TP          ; ~           ;             
+| P8         TST         ~                   Loc /(X=254.000 mm, Y=36.830 mm); TP          ; ~           ;             
+| R1         13k                             Loc /(X=104.140 mm, Y=33.020 mm); 0402        ;             ;             
+| R2         100                             Loc /(X=118.110 mm, Y=31.750 mm); 0402        ;             ;             
+| R3         2.4k                            Loc /(X=115.570 mm, Y=34.290 mm); 0402        ;             ;             
+| R4         100                             Loc /(X=194.310 mm, Y=95.250 mm); 0402        ;             ;             
+| R5         2k                              Loc /(X=179.070 mm, Y=100.330 mm); 0402        ;             ;             
+| R6         2k                              Loc /(X=205.740 mm, Y=111.760 mm); 0402        ;             ;             
+| R7         1k                              Loc /(X=175.260 mm, Y=104.140 mm); 0402        ;             ;             
+| R8         2K                              Loc /(X=182.880 mm, Y=106.680 mm); 0402        ;             ;             
+| R9         2k                              Loc /(X=195.580 mm, Y=111.760 mm); 0402        ;             ;             
+| R10        1R                              Loc /(X=64.770 mm, Y=57.150 mm); 0402        ;             ;             
+| U1         BD9C301FJ   bd9c401efj-e.pdf    Loc /(X=99.060 mm, Y=13.970 mm); HTSOP-J8    ; bd9c401efj-e.pdf;             
+| U2         NCP1117ST18T3GNCP1117-D.PDF       Loc /(X=40.640 mm, Y=57.150 mm); SOT-223     ; NCP1117-D.PDF;             
+| U3         AAT3220     202250A.pdf         Loc /(X=92.710 mm, Y=57.150 mm); SC59        ; 202250A.pdf ;             
+| U4         BITFURY                         Loc /(X=218.440 mm, Y=19.050 mm); QFN48       ;             ;             
+| U5         MCP2210-SO  22288A.pdf          Loc /(X=129.540 mm, Y=77.470 mm); SSOP-20     ; 22288A.pdf  ;             
+| X1         12MHz       p16e.pdf            Loc /(X=109.220 mm, Y=113.030 mm); CSTCE_G15C  ; p16e.pdf    ; CSTCE12M0G55-R0
+#End Cmp
+
+#Cmp ( order = Value ) (with SubCmp)
+| 1.1n         C7        Loc /(X=104.140 mm, Y=39.370 mm); 0402        ;             ;             
+| 100nF        C1        Loc /(X=36.830 mm, Y=20.320 mm); 0402        ;             ;             
+| 100nF        C3        Loc /(X=83.820 mm, Y=21.590 mm); 0402        ;             ;             
+| 100nF        C6        Loc /(X=148.590 mm, Y=22.860 mm); 0402        ;             ;             
+| 100n         C10       Loc /(X=118.110 mm, Y=72.390 mm); 0402        ;             ;             
+| 100nF        C12       Loc /(X=157.480 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C13       Loc /(X=165.100 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C14       Loc /(X=172.720 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C15       Loc /(X=180.340 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C22       Loc /(X=198.120 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C23       Loc /(X=205.740 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C24       Loc /(X=213.360 mm, Y=156.210 mm); 0402        ;             ;             
+| 100nF        C25       Loc /(X=220.980 mm, Y=156.210 mm); 0402        ;             ;             
+| 10uF         C8        Loc /(X=59.690 mm, Y=72.390 mm); 0805        ;             ;             
+| 10uF         C9        Loc /(X=111.760 mm, Y=72.390 mm); 0805        ;             ;             
+| 22uF         C2        Loc /(X=78.740 mm, Y=21.590 mm); 0805        ;             ;             
+| 22uF         C4        Loc /(X=139.700 mm, Y=22.860 mm); 0805        ;             ;             
+| 22uF         C5        Loc /(X=143.510 mm, Y=22.860 mm); 0805        ;             ;             
+| 22uF         C11       Loc /(X=149.860 mm, Y=156.210 mm); 0805        ;             ;             
+| 22uF         C21       Loc /(X=190.500 mm, Y=156.210 mm); 0805        ;             ;             
+| 100n         CF1.8-1   Loc /(X=189.230 mm, Y=48.260 mm); 0402        ;             ;             
+| MINIUSB      CN1       Loc /(X=20.320 mm, Y=22.860 mm); USBAPCB     ;             ;             
+| 1uH          L1        Loc /(X=27.940 mm, Y=16.510 mm); 0402        ;             ;             
+| 2.4uH        L2        Loc /(X=125.730 mm, Y=19.050 mm); 0630        ;             ;             
+| TST          P1        Loc /(X=186.690 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P2        Loc /(X=190.500 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P3        Loc /(X=194.310 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P4        Loc /(X=203.200 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P5        Loc /(X=207.010 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P6        Loc /(X=210.820 mm, Y=77.470 mm); TP          ; ~           ;             
+| TST          P7        Loc /(X=199.390 mm, Y=62.230 mm); TP          ; ~           ;             
+| TST          P8        Loc /(X=254.000 mm, Y=36.830 mm); TP          ; ~           ;             
+| 1R           R10       Loc /(X=64.770 mm, Y=57.150 mm); 0402        ;             ;             
+| 100          R2        Loc /(X=118.110 mm, Y=31.750 mm); 0402        ;             ;             
+| 100          R4        Loc /(X=194.310 mm, Y=95.250 mm); 0402        ;             ;             
+| 1k           R7        Loc /(X=175.260 mm, Y=104.140 mm); 0402        ;             ;             
+| 2k           R5        Loc /(X=179.070 mm, Y=100.330 mm); 0402        ;             ;             
+| 2k           R6        Loc /(X=205.740 mm, Y=111.760 mm); 0402        ;             ;             
+| 2K           R8        Loc /(X=182.880 mm, Y=106.680 mm); 0402        ;             ;             
+| 2k           R9        Loc /(X=195.580 mm, Y=111.760 mm); 0402        ;             ;             
+| 2.4k         R3        Loc /(X=115.570 mm, Y=34.290 mm); 0402        ;             ;             
+| 13k          R1        Loc /(X=104.140 mm, Y=33.020 mm); 0402        ;             ;             
+| BD9C301FJ    U1        Loc /(X=99.060 mm, Y=13.970 mm); HTSOP-J8    ; bd9c401efj-e.pdf;             
+| BITFURY      U4        Loc /(X=218.440 mm, Y=19.050 mm); QFN48       ;             ;             
+| AAT3220      U3        Loc /(X=92.710 mm, Y=57.150 mm); SC59        ; 202250A.pdf ;             
+| NCP1117ST18T3G U2        Loc /(X=40.640 mm, Y=57.150 mm); SOT-223     ; NCP1117-D.PDF;             
+| MCP2210-SO   U5        Loc /(X=129.540 mm, Y=77.470 mm); SSOP-20     ; 22288A.pdf  ;             
+| 12MHz        X1        Loc /(X=109.220 mm, Y=113.030 mm); CSTCE_G15C  ; p16e.pdf    ; CSTCE12M0G55-R0
+#End Cmp
+
+#End List

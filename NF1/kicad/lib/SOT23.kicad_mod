@@ -21,7 +21,7 @@
   (pad 1 smd rect (at -0.9525 1.09982) (size 0.8001 1.00076)
     (layers F.Cu F.Paste F.Mask)
   )
-  (model smd\SOT23_3.wrl
+  (model ../lib/SOT23_3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 180))
