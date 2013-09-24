@@ -1,6 +1,13 @@
 Release Notes
 ------------------------------------------------------------------------------
 
+Sep 23, 2013 - NF1 Board - v0.5
+- Add 1.8->3.3v converter (using a BSS138L MOSFET transistor)
+- add SOT-23 package to library
+- add MOS-N (and MOSFET-N) components to library
+- add TechnoBit's logo for boards for Marto74
+
+------------------------------------------------------------------------------
 Sep 20, 2013 - NF1 Board - v0.4
 - add 0603 and fix most capacitors & resistors to that size (0805 just takes too much valuable space)
 - add LED
