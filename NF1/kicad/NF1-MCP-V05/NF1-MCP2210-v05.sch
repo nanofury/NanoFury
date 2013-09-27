@@ -20,9 +20,9 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "NanoFury NF1 - Version 3"
+Title "NanoFury NF1 - Version 5"
 Date "23 sep 2013"
-Rev "0.3"
+Rev "0.5"
 Comp ""
 Comment1 ""
 Comment2 ""
