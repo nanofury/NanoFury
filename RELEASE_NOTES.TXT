@@ -1,6 +1,15 @@
 Release Notes
 ------------------------------------------------------------------------------
+Oct 01, 2013 - NF1 Board - v0.6
+Minor updates to schematics:
+- cleanup components
+- update component sizes
+PCB rework:
+- fix erroneous USB connector pads numbering (and also holes diameter)
+- update 0630 pads (as the real ones are a bit bigger)
+- other minor component updates
 
+------------------------------------------------------------------------------
 Sep 23, 2013 - NF1 Board - v0.5
 - Add 1.8->3.3v converter (using a BSS138L MOSFET transistor)
 - add SOT-23 package to library

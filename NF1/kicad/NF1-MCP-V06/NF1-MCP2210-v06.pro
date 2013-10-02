@@ -1,4 +1,4 @@
-update=10/1/2013 1:38:11 AM
+update=10/2/2013 3:28:12 AM
 last_client=eeschema
 [cvpcb]
 version=1
@@ -30,7 +30,7 @@ LibName1=E:/Products/GIT/NanoFury/NF1/kicad/lib/NanoFury
 [eeschema]
 version=1
 LibDir=
-NetFmtName=
+NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
 RptLab=1
