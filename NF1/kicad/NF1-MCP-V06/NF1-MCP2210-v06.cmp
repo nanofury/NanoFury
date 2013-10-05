@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/2/2013 2:17:45 AM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/4/2013 10:39:49 PM
 
 BeginCmp
 TimeStamp = /520B528F;
@@ -10,7 +10,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5211C979;
 Reference = C2;
-ValeurCmp = 22uF;
+ValeurCmp = 22uF/6.3V;
 IdModule  = 0805;
 EndCmp
 
@@ -59,7 +59,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52119381;
 Reference = C9;
-ValeurCmp = 10uF;
+ValeurCmp = 10uF/4V;
 IdModule  = 0805;
 EndCmp
 
@@ -143,7 +143,7 @@ EndCmp
 BeginCmp
 TimeStamp = /524BDEE9;
 Reference = CF1;
-ValeurCmp = 22uF;
+ValeurCmp = 22uF/6.3V;
 IdModule  = 0805;
 EndCmp
 
@@ -332,15 +332,15 @@ EndCmp
 BeginCmp
 TimeStamp = /52298398;
 Reference = U2;
-ValeurCmp = AAT3221IGV-1.8;
+ValeurCmp = LDO - 1.8V;
 IdModule  = SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /52257E48;
 Reference = U3;
-ValeurCmp = AAT3220;
-IdModule  = SC59;
+ValeurCmp = LDO - 3.3V;
+IdModule  = SOT23;
 EndCmp
 
 BeginCmp
