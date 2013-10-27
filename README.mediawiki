@@ -1,49 +1,49 @@
-====== NanoFury Project ======
+= NanoFury Project =
 
 The ''NanoFury Project'' is a hardware and software design for a Bitcoin ASIC Miner using ''bitfury'' chips.
 
 
-//**WARNING**:  This project is work in progress. There may be errors, mistakes, incomplete portions at this time. Please be careful before you use these project files to order circuit boards and double-check all files.//
+'''''WARNING''':  This project is work in progress. There may be errors, mistakes, incomplete portions at this time. Please be careful before you use these project files to order circuit boards and double-check all files.''
 
-See ''LICENSE'' and ''COPYING'' files for terms and warranty disclaimer.
+See '''LICENSE''' and '''COPYING''' files for terms and warranty disclaimer.
 
-See ''RELEASE NOTES'' for known problems, and issues.
+See '''RELEASE NOTES''' for known problems, and issues.
 
-===== Project Summary =====
+== Project Summary ==
 
 This is an open source effort to design and build a Bitcoin mining board based on the BitFury ASIC.
 
 Initially the goal is to get a simple USB-to-BitFury interface. The final goal is this design to be used as a base for a board with multiple BitFury ASIC chips as by design they are very easy to chain. The only limitation would come from the speed of the SPI bus which is estimated at this time to be sufficient for up to 32 chips per chain.
 
-===== Project Status =====
+== Project Status ==
 
 This project is under active development. A more up-to date status is available on the project wiki pages.
 
-==== Hardware Development ====
+=== Hardware Development ===
 
 Hardware design for the NanoFury NF1 board (which utilizes one BitFury chip) is relatively stable. Version 0.6 of the PCB was used for a small production series.
 
-==== Software Development ====
+=== Software Development ===
 
-A new ''cgminer-nanofury'' repo will be created for development with only changed files echoed here in the cgminer directory.
+A new '''cgminer-nanofury''' repo will be created for development with only changed files echoed here in the cgminer directory.
 
-There is also support in ''[[https://github.com/luke-jr/bfgminer|bfgminer]]'' (see [[https://github.com/luke-jr/bfgminer/tree/nanofury|nanofury]] branch) which also provides the necessary software support for the NanoFury NF1 design.
+There is also support in '''[[https://github.com/luke-jr/bfgminer|bfgminer]]''' (see [[https://github.com/luke-jr/bfgminer/tree/nanofury|nanofury]] branch) which also provides the necessary software support for the NanoFury NF1 design.
 
-See also the sample ''[[https://github.com/nanofury/NanoFury_Init|NanoFury Init]]'' test application. This application can exercise individual NanoFury devices and can also fix the "Product String" which is a required change so that ''bfgminer'' can recognize all devices automatically (as opposed to having to individually supply the serial numbers).
+See also the sample '''[[https://github.com/nanofury/NanoFury_Init|NanoFury Init]]''' test application. This application can exercise individual NanoFury devices and can also fix the "Product String" which is a required change so that '''bfgminer''' can recognize all devices automatically (as opposed to having to individually supply the serial numbers).
 
-==== Documentation ====
+=== Documentation ===
 
 See this project's [[https://github.com/nanofury/NanoFury/wiki|Wiki]] pages.
-==== Acknowledgments ====
+== Acknowledgments ==
 
 This project would not have been possible and would not have been where it currently is without the contributions of the following individuals:
 
-  * BKKCoins - The [[https://bitcointalk.org/index.php?topic=190731|Klondike K1 Nano Open Source Board]] was the inspiration for this project. It is also available on github at [[http://github.com/bkkcoins/klondike]]
-  * [[http://github.com/vstrinski|Vladimir Strinski]] - all hardware design and development, low-level drivers and software development
-  * Valeria Pelova - software development, cgminer port
-  * [[http://github.com/luke-jr|Luke Dashjr]] - software development, ''bfgminer'' support
+* BKKCoins - The [[https://bitcointalk.org/index.php?topic=190731|Klondike K1 Nano Open Source Board]] was the inspiration for this project. It is also available on github at [[http://github.com/bkkcoins/klondike]]
+* [[https://www.linkedin.com/pub/vladimir-strinski/0/8b/719|Vladimir Strinski]] - all hardware design and development, low-level drivers and software development
+* [[https://www.linkedin.com/pub/valeria-pelova/1/b53/666|Valeria Pelova]] - software development, cgminer port
+* [[http://github.com/luke-jr|Luke Dashjr]] - software development, ''bfgminer'' support
 
-===== Donations =====
+== Donations ==
 
 If you found this project helpful and wanted to donate some bitcoins please send them to [[bitcoin:1AHvViTD5wohPywNYHi8NZ8uPhbY9dZXCY]]. All donations are much appreciated! :)
 
