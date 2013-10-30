@@ -47,4 +47,4 @@ This project would not have been possible and would not have been where it curre
 
 If you found this project helpful and wanted to donate some bitcoins please send them to [[bitcoin:1AHvViTD5wohPywNYHi8NZ8uPhbY9dZXCY]]. All donations are much appreciated! :)
 
-If you end up using the NanoFury designs for manufacturing of any boards for sale/resale we'd like to ask you consider adding a few bucks "//design donation//" to the first few hundred boards (or as much or many as you feel appropriate) to help recoup the several thousand dollars that went into the development of this project.
+If you end up using the NanoFury designs for manufacturing of any boards for sale/resale we'd like to ask you consider adding a few bucks "''design donation''" to the first few hundred boards (or as much or many as you feel appropriate) to help recoup the several thousand dollars that went into the development of this project.
