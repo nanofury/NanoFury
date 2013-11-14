@@ -1,6 +1,7 @@
 (module 0603 (layer F.Cu)
   (at 0 0)
   (descr 0603)
+  (attr smd)
   (fp_text reference ? (at 0 -0.635) (layer F.SilkS)
     (effects (font (size 0.20066 0.20066) (thickness 0.04064)))
   )

@@ -1,7 +1,7 @@
 (module USBAPCB (layer F.Cu)
   (at 0 0)
   (path /51E5947E)
-  (attr smd)
+  (attr virtual)
   (fp_text reference J2 (at 0.13 -7.85) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )

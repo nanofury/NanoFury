@@ -1,6 +1,7 @@
 (module SC59 (layer F.Cu)
   (at 0 0)
   (tags SC59)
+  (attr smd)
   (fp_text reference SC59 (at 1.99898 -0.09906 90) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.11938)))
   )

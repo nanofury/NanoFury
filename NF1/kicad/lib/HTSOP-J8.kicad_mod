@@ -1,6 +1,7 @@
 (module HTSOP-J8 (layer F.Cu)
   (at 0 0)
   (path /5211C8C8)
+  (attr smd)
   (fp_text reference U1 (at 1.508 -6.466) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
