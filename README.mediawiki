@@ -23,7 +23,7 @@ This project is under active development. A more up-to date status is available 
 
 === Hardware Development ===
 
-Hardware design for the NanoFury NF1 board (which utilizes one BitFury chip) is relatively stable. Version 0.6 of the PCB was used for a small production series. More details, pictures and test results are available on the BitcoinTalk forums at [[https://bitcointalk.org/index.php?topic=291456|this]] thread.
+Hardware design for the NanoFury NF1 board (which utilizes one BitFury chip) is relatively stable. Version 0.6 of the PCB was used for a small production series. More details, pictures and test results are available on the BitcoinTalk forums at [[https://bitcointalk.org/index.php?topic=291456|this]] thread. Version 0.7 is currently the one being mass-produced (mostly addressing shortages of some components and providing options for alternative packaging). See the release notes for details.
 
 === Software Development ===
 
