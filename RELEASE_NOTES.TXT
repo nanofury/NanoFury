@@ -4,8 +4,10 @@ Release Notes
 Dec 24, 2013 - NF1 Board - v0.7
 Minor updates to schematics:
 - add alternative package option for MCP2210
+- core voltage bumped from 0.83V to 0.86V
 PCB rework:
 - Add footprints for both MCP2210-I/SO and MCP2210-I/SS (so that either of the two can be used)
+- move around bulky capacitors so that they don't interfere if someone wants to add an extra heatsink on the bitfury chip.
 - other minor component updates
 
 ------------------------------------------------------------------------------
