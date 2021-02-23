@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 4/8/2014 12:19:32 AM
+#
+$CMP MOS_P
+D MOS P
+K MOS MOSFET PMOS PMOSFET MOSP MOSFETP
+$ENDCMP
+#
+#End Doc Library
